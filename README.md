@@ -24,9 +24,9 @@ A console-based Student Management System developed using Python and SQLite. It 
 ## Project Structure
 
 Student-Management-System/
-├── main.py
-├── database.py
-└── README.md
+── main.py
+── database.py
+── README.md
 
 ## How to Run
 
