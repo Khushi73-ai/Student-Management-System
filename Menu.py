@@ -1,4 +1,12 @@
-while True:
+from database import(
+  add_student,
+  update_student,
+  view_student,
+  delete_student,
+  search_student,
+)
+
+  while True:
   print("\n------STUDENT MANAGEMENT SYSTEM------")
   print("1. Add student")
   print("2. Update student")
@@ -8,14 +16,6 @@ while True:
   print("6. Exit")
 
   choice = input("Enter your choice: ")
-
-  from database import(
-    add_student,
-    update_student,
-    view_student,
-    delete_student,
-    search_student,
-  )
 
   if choice == "1":
 
