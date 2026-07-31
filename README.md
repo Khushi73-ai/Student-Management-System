@@ -24,12 +24,12 @@ A console-based Student Management System developed using Python and SQLite. It 
 ## Project Structure
 
 Student-Management-System/
-── main.py
+── menu.py
 ── database.py
 ── README.md
 
 ## How to Run
 
 1. Clone or download the project.
-2. Run `main.py`.
+2. Run `menu.py`.
 3. Select an option from the menu.
